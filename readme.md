@@ -25,5 +25,5 @@
 
 在周六做完了全部练习！
 
-![finish rustling](pitures/2_1.png)
+![finish rustling](https://github.com/3HYXX/LearningOS2023Record/pictures/2_1.png)
 
